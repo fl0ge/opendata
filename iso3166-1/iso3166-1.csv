@@ -1,0 +1,250 @@
+alpha-2,alpha-3,numeric,short_name_en,short_name_fr
+AD,AND,20,Andorra,Andorre
+AE,ARE,784,United Arab Emirates,Émirats arabes unis
+AF,AFG,4,Afghanistan,Afghanistan
+AG,ATG,28,Antigua and Barbuda,Antigua-et-Barbuda
+AI,AIA,660,Anguilla,Anguilla
+AL,ALB,8,Albania,Albanie
+AM,ARM,51,Armenia,Arménie
+AO,AGO,24,Angola,Angola
+AQ,ATA,10,Antarctica,Antarctique
+AR,ARG,32,Argentina,Argentine
+AS,ASM,16,American Samoa,Samoa américaines
+AT,AUT,40,Austria,Autriche
+AU,AUS,36,Australia,Australie
+AW,ABW,533,Aruba,Aruba
+AX,ALA,248,Åland Islands,Åland (Îles)
+AZ,AZE,31,Azerbaijan,Azerbaïdjan
+BA,BIH,70,Bosnia and Herzegovina,Bosnie-Herzégovine
+BB,BRB,52,Barbados,Barbade
+BD,BGD,50,Bangladesh,Bangladesh
+BE,BEL,56,Belgium,Belgique
+BF,BFA,854,Burkina Faso,Burkina Faso
+BG,BGR,100,Bulgaria,Bulgarie
+BH,BHR,48,Bahrain,Bahreïn
+BI,BDI,108,Burundi,Burundi
+BJ,BEN,204,Benin,Bénin
+BL,BLM,652,Saint Barthélemy,Saint-Barthélemy
+BM,BMU,60,Bermuda,Bermudes
+BN,BRN,96,Brunei Darussalam,Brunéi Darussalam
+BO,BOL,68,Bolivia (Plurinational State of),Bolivie (État plurinational de)
+BQ,BES,535,Bonaire (Sint Eustatius and Saba),Bonaire (Saint-Eustache et Saba)
+BR,BRA,76,Brazil,Brésil
+BS,BHS,44,Bahamas,Bahamas
+BT,BTN,64,Bhutan,Bhoutan
+BV,BVT,74,Bouvet Island,Bouvet (Île)
+BW,BWA,72,Botswana,Botswana
+BY,BLR,112,Belarus,Bélarus
+BZ,BLZ,84,Belize,Belize
+CA,CAN,124,Canada,Canada
+CC,CCK,166,Cocos (Keeling) Islands,Cocos (Îles)/ Keeling (Îles)
+CD,COD,180,Congo (Democratic Republic of the),Congo (République démocratique du)
+CF,CAF,140,Central African Republic,République centrafricaine
+CG,COG,178,Congo,Congo
+CH,CHE,756,Switzerland,Suisse
+CI,CIV,384,Côte d'Ivoire,Côte d'Ivoire
+CK,COK,184,Cook Islands,Cook (Îles)
+CL,CHL,152,Chile,Chili
+CM,CMR,120,Cameroon,Cameroun
+CN,CHN,156,China,Chine
+CO,COL,170,Colombia,Colombie
+CR,CRI,188,Costa Rica,Costa Rica
+CU,CUB,192,Cuba,Cuba
+CV,CPV,132,Cabo Verde,Cabo Verde
+CW,CUW,531,Curaçao,Curaçao
+CX,CXR,162,Christmas Island,Christmas (Île)
+CY,CYP,196,Cyprus,Chypre
+CZ,CZE,203,Czechia,Tchéquie
+DE,DEU,276,Germany,Allemagne
+DJ,DJI,262,Djibouti,Djibouti
+DK,DNK,208,Denmark,Danemark
+DM,DMA,212,Dominica,Dominique
+DO,DOM,214,Dominican Republic,Dominicaine (République)
+DZ,DZA,12,Algeria,Algérie
+EC,ECU,218,Ecuador,Équateur
+EE,EST,233,Estonia,Estonie
+EG,EGY,818,Egypt,Égypte
+EH,ESH,732,Western Sahara,Sahara occidental
+ER,ERI,232,Eritrea,Érythrée
+ES,ESP,724,Spain,Espagne
+ET,ETH,231,Ethiopia,Éthiopie
+FI,FIN,246,Finland,Finlande
+FJ,FJI,242,Fiji,Fidji
+FK,FLK,238,Falkland Islands [Malvinas],Falkland (Îles)/Malouines (Îles)
+FM,FSM,583,Micronesia (Federated States of),Micronésie (États fédérés de)
+FO,FRO,234,Faroe Islands,Féroé (Îles)
+FR,FRA,250,France,France
+GA,GAB,266,Gabon,Gabon
+GB,GBR,826,United Kingdom of Great Britain and Northern Ireland,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+GD,GRD,308,Grenada,Grenade
+GE,GEO,268,Georgia,Géorgie
+GF,GUF,254,French Guiana,Guyane française
+GG,GGY,831,Guernsey,Guernesey
+GH,GHA,288,Ghana,Ghana
+GI,GIB,292,Gibraltar,Gibraltar
+GL,GRL,304,Greenland,Groenland
+GM,GMB,270,Gambia,Gambie
+GN,GIN,324,Guinea,Guinée
+GP,GLP,312,Guadeloupe,Guadeloupe
+GQ,GNQ,226,Equatorial Guinea,Guinée équatoriale
+GR,GRC,300,Greece,Grèce
+GS,SGS,239,South Georgia and the South Sandwich Islands,Géorgie du Sud-et-les Îles Sandwich du Sud
+GT,GTM,320,Guatemala,Guatemala
+GU,GUM,316,Guam,Guam
+GW,GNB,624,Guinea-Bissau,Guinée-Bissau
+GY,GUY,328,Guyana,Guyana
+HK,HKG,344,Hong Kong,Hong Kong
+HM,HMD,334,Heard Island and McDonald Islands,Heard-et-Îles MacDonald (Île)
+HN,HND,340,Honduras,Honduras
+HR,HRV,191,Croatia,Croatie
+HT,HTI,332,Haiti,Haïti
+HU,HUN,348,Hungary,Hongrie
+ID,IDN,360,Indonesia,Indonésie
+IE,IRL,372,Ireland,Irlande
+IL,ISR,376,Israel,Israël
+IM,IMN,833,Isle of Man,Île de Man
+IN,IND,356,India,Inde
+IO,IOT,86,British Indian Ocean Territory,Indien (Territoire britannique de l'océan)
+IQ,IRQ,368,Iraq,Iraq
+IR,IRN,364,Iran (Islamic Republic of),Iran (République Islamique d')
+IS,ISL,352,Iceland,Islande
+IT,ITA,380,Italy,Italie
+JE,JEY,832,Jersey,Jersey
+JM,JAM,388,Jamaica,Jamaïque
+JO,JOR,400,Jordan,Jordanie
+JP,JPN,392,Japan,Japon
+KE,KEN,404,Kenya,Kenya
+KG,KGZ,417,Kyrgyzstan,Kirghizistan
+KH,KHM,116,Cambodia,Cambodge
+KI,KIR,296,Kiribati,Kiribati
+KM,COM,174,Comoros,Comores
+KN,KNA,659,Saint Kitts and Nevis,Saint-Kitts-et-Nevis
+KP,PRK,408,Korea (Democratic People's Republic of),Corée (République populaire démocratique de)
+KR,KOR,410,Korea (Republic of),Corée (République de)
+KW,KWT,414,Kuwait,Koweït
+KY,CYM,136,Cayman Islands,Caïmans (Îles)
+KZ,KAZ,398,Kazakhstan,Kazakhstan
+LA,LAO,418,Lao People's Democratic Republic,Lao (République démocratique populaire)
+LB,LBN,422,Lebanon,Liban
+LC,LCA,662,Saint Lucia,Sainte-Lucie
+LI,LIE,438,Liechtenstein,Liechtenstein
+LK,LKA,144,Sri Lanka,Sri Lanka
+LR,LBR,430,Liberia,Libéria
+LS,LSO,426,Lesotho,Lesotho
+LT,LTU,440,Lithuania,Lituanie
+LU,LUX,442,Luxembourg,Luxembourg
+LV,LVA,428,Latvia,Lettonie
+LY,LBY,434,Libya,Libye
+MA,MAR,504,Morocco,Maroc
+MC,MCO,492,Monaco,Monaco
+MD,MDA,498,Moldova (Republic of),Moldova (République de)
+ME,MNE,499,Montenegro,Monténégro
+MF,MAF,663,Saint Martin (French part),Saint-Martin (partie française)
+MG,MDG,450,Madagascar,Madagascar
+MH,MHL,584,Marshall Islands,Marshall (Îles)
+MK,MKD,807,North Macedonia,Macédoine du Nord
+ML,MLI,466,Mali,Mali
+MM,MMR,104,Myanmar,Myanmar
+MN,MNG,496,Mongolia,Mongolie
+MO,MAC,446,Macao,Macao
+MP,MNP,580,Northern Mariana Islands,Mariannes du Nord (Îles)
+MQ,MTQ,474,Martinique,Martinique
+MR,MRT,478,Mauritania,Mauritanie
+MS,MSR,500,Montserrat,Montserrat
+MT,MLT,470,Malta,Malte
+MU,MUS,480,Mauritius,Maurice
+MV,MDV,462,Maldives,Maldives
+MW,MWI,454,Malawi,Malawi
+MX,MEX,484,Mexico,Mexique
+MY,MYS,458,Malaysia,Malaisie
+MZ,MOZ,508,Mozambique,Mozambique
+NA,NAM,516,Namibia,Namibie
+NC,NCL,540,New Caledonia,Nouvelle-Calédonie
+NE,NER,562,Niger,Niger
+NF,NFK,574,Norfolk Island,Norfolk (l'Île)
+NG,NGA,566,Nigeria,Nigéria
+NI,NIC,558,Nicaragua,Nicaragua
+NL,NLD,528,Netherlands,Pays-Bas
+NO,NOR,578,Norway,Norvège
+NP,NPL,524,Nepal,Népal
+NR,NRU,520,Nauru,Nauru
+NU,NIU,570,Niue,Niue
+NZ,NZL,554,New Zealand,Nouvelle-Zélande
+OM,OMN,512,Oman,Oman
+PA,PAN,591,Panama,Panama
+PE,PER,604,Peru,Pérou
+PF,PYF,258,French Polynesia,Polynésie française
+PG,PNG,598,Papua New Guinea,Papouasie-Nouvelle-Guinée
+PH,PHL,608,Philippines,Philippines
+PK,PAK,586,Pakistan,Pakistan
+PL,POL,616,Poland,Pologne
+PM,SPM,666,Saint Pierre and Miquelon,Saint-Pierre-et-Miquelon
+PN,PCN,612,Pitcairn,Pitcairn
+PR,PRI,630,Puerto Rico,Porto Rico
+PS,PSE,275,Palestine (State of),Palestine (État de)
+PT,PRT,620,Portugal,Portugal
+PW,PLW,585,Palau,Palaos
+PY,PRY,600,Paraguay,Paraguay
+QA,QAT,634,Qatar,Qatar
+RE,REU,638,Réunion,Réunion
+RO,ROU,642,Romania,Roumanie
+RS,SRB,688,Serbia,Serbie
+RU,RUS,643,Russian Federation,Russie (Fédération de)
+RW,RWA,646,Rwanda,Rwanda
+SA,SAU,682,Saudi Arabia,Arabie saoudite
+SB,SLB,90,Solomon Islands,Salomon (Îles)
+SC,SYC,690,Seychelles,Seychelles
+SD,SDN,729,Sudan,Soudan
+SE,SWE,752,Sweden,Suède
+SG,SGP,702,Singapore,Singapour
+SH,SHN,654,Saint Helena (Ascension and Tristan da Cunha),Sainte-Hélène (Ascension et Tristan da Cunha)
+SI,SVN,705,Slovenia,Slovénie
+SJ,SJM,744,Svalbard and Jan Mayen,Svalbard et l'Île Jan Mayen
+SK,SVK,703,Slovakia,Slovaquie
+SL,SLE,694,Sierra Leone,Sierra Leone
+SM,SMR,674,San Marino,Saint-Marin
+SN,SEN,686,Senegal,Sénégal
+SO,SOM,706,Somalia,Somalie
+SR,SUR,740,Suriname,Suriname
+SS,SSD,728,South Sudan,Soudan du Sud
+ST,STP,678,Sao Tome and Principe,Sao Tomé-et-Principe
+SV,SLV,222,El Salvador,El Salvador
+SX,SXM,534,Sint Maarten (Dutch part),Saint-Martin (partie néerlandaise)
+SY,SYR,760,Syrian Arab Republic,République arabe syrienne
+SZ,SWZ,748,Eswatini,Eswatini
+TC,TCA,796,Turks and Caicos Islands,Turks-et-Caïcos (Îles)
+TD,TCD,148,Chad,Tchad
+TF,ATF,260,French Southern Territories,Terres australes françaises
+TG,TGO,768,Togo,Togo
+TH,THA,764,Thailand,Thaïlande
+TJ,TJK,762,Tajikistan,Tadjikistan
+TK,TKL,772,Tokelau,Tokelau
+TL,TLS,626,Timor-Leste,Timor-Leste
+TM,TKM,795,Turkmenistan,Turkménistan
+TN,TUN,788,Tunisia,Tunisie
+TO,TON,776,Tonga,Tonga
+TR,TUR,792,Turkey,Turquie
+TT,TTO,780,Trinidad and Tobago,Trinité-et-Tobago
+TV,TUV,798,Tuvalu,Tuvalu
+TW,TWN,158,Taiwan (Province of China),Taïwan (Province de Chine)
+TZ,TZA,834,Tanzania (United Republic of),Tanzanie (République-Unie de)
+UA,UKR,804,Ukraine,Ukraine
+UG,UGA,800,Uganda,Ouganda
+UM,UMI,581,United States Minor Outlying Islands,Îles mineures éloignées des États-Unis
+US,USA,840,United States of America,États-Unis d'Amérique
+UY,URY,858,Uruguay,Uruguay
+UZ,UZB,860,Uzbekistan,Ouzbékistan
+VA,VAT,336,Holy See,Saint-Siège
+VC,VCT,670,Saint Vincent and the Grenadines,Saint-Vincent-et-les Grenadines
+VE,VEN,862,Venezuela (Bolivarian Republic of),Venezuela (République bolivarienne du)
+VG,VGB,92,Virgin Islands (British),Vierges britanniques (Îles)
+VI,VIR,850,Virgin Islands (U.S.),Vierges des États-Unis (Îles)
+VN,VNM,704,Viet Nam,Viet Nam
+VU,VUT,548,Vanuatu,Vanuatu
+WF,WLF,876,Wallis and Futuna,Wallis-et-Futuna
+WS,WSM,882,Samoa,Samoa
+YE,YEM,887,Yemen,Yémen
+YT,MYT,175,Mayotte,Mayotte
+ZA,ZAF,710,South Africa,Afrique du Sud
+ZM,ZMB,894,Zambia,Zambie
+ZW,ZWE,716,Zimbabwe,Zimbabwe
