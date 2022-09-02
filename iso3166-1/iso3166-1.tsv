@@ -1,250 +1,250 @@
-alpha-2	alpha-3	numeric	short_name_en	short_name_fr
-AD	AND	20	Andorra	Andorre
-AE	ARE	784	United Arab Emirates	Émirats arabes unis
-AF	AFG	4	Afghanistan	Afghanistan
-AG	ATG	28	Antigua and Barbuda	Antigua-et-Barbuda
-AI	AIA	660	Anguilla	Anguilla
-AL	ALB	8	Albania	Albanie
-AM	ARM	51	Armenia	Arménie
-AO	AGO	24	Angola	Angola
-AQ	ATA	10	Antarctica	Antarctique
-AR	ARG	32	Argentina	Argentine
-AS	ASM	16	American Samoa	Samoa américaines
-AT	AUT	40	Austria	Autriche
-AU	AUS	36	Australia	Australie
-AW	ABW	533	Aruba	Aruba
-AX	ALA	248	Åland Islands	Åland (Îles)
-AZ	AZE	31	Azerbaijan	Azerbaïdjan
-BA	BIH	70	Bosnia and Herzegovina	Bosnie-Herzégovine
-BB	BRB	52	Barbados	Barbade
-BD	BGD	50	Bangladesh	Bangladesh
-BE	BEL	56	Belgium	Belgique
-BF	BFA	854	Burkina Faso	Burkina Faso
-BG	BGR	100	Bulgaria	Bulgarie
-BH	BHR	48	Bahrain	Bahreïn
-BI	BDI	108	Burundi	Burundi
-BJ	BEN	204	Benin	Bénin
-BL	BLM	652	Saint Barthélemy	Saint-Barthélemy
-BM	BMU	60	Bermuda	Bermudes
-BN	BRN	96	Brunei Darussalam	Brunéi Darussalam
-BO	BOL	68	Bolivia (Plurinational State of)	Bolivie (État plurinational de)
-BQ	BES	535	Bonaire (Sint Eustatius and Saba)	Bonaire (Saint-Eustache et Saba)
-BR	BRA	76	Brazil	Brésil
-BS	BHS	44	Bahamas	Bahamas
-BT	BTN	64	Bhutan	Bhoutan
-BV	BVT	74	Bouvet Island	Bouvet (Île)
-BW	BWA	72	Botswana	Botswana
-BY	BLR	112	Belarus	Bélarus
-BZ	BLZ	84	Belize	Belize
-CA	CAN	124	Canada	Canada
-CC	CCK	166	Cocos (Keeling) Islands	Cocos (Îles)/ Keeling (Îles)
-CD	COD	180	Congo (Democratic Republic of the)	Congo (République démocratique du)
-CF	CAF	140	Central African Republic	République centrafricaine
-CG	COG	178	Congo	Congo
-CH	CHE	756	Switzerland	Suisse
-CI	CIV	384	Côte d'Ivoire	Côte d'Ivoire
-CK	COK	184	Cook Islands	Cook (Îles)
-CL	CHL	152	Chile	Chili
-CM	CMR	120	Cameroon	Cameroun
-CN	CHN	156	China	Chine
-CO	COL	170	Colombia	Colombie
-CR	CRI	188	Costa Rica	Costa Rica
-CU	CUB	192	Cuba	Cuba
-CV	CPV	132	Cabo Verde	Cabo Verde
-CW	CUW	531	Curaçao	Curaçao
-CX	CXR	162	Christmas Island	Christmas (Île)
-CY	CYP	196	Cyprus	Chypre
-CZ	CZE	203	Czechia	Tchéquie
-DE	DEU	276	Germany	Allemagne
-DJ	DJI	262	Djibouti	Djibouti
-DK	DNK	208	Denmark	Danemark
-DM	DMA	212	Dominica	Dominique
-DO	DOM	214	Dominican Republic	Dominicaine (République)
-DZ	DZA	12	Algeria	Algérie
-EC	ECU	218	Ecuador	Équateur
-EE	EST	233	Estonia	Estonie
-EG	EGY	818	Egypt	Égypte
-EH	ESH	732	Western Sahara	Sahara occidental
-ER	ERI	232	Eritrea	Érythrée
-ES	ESP	724	Spain	Espagne
-ET	ETH	231	Ethiopia	Éthiopie
-FI	FIN	246	Finland	Finlande
-FJ	FJI	242	Fiji	Fidji
-FK	FLK	238	Falkland Islands [Malvinas]	Falkland (Îles)/Malouines (Îles)
-FM	FSM	583	Micronesia (Federated States of)	Micronésie (États fédérés de)
-FO	FRO	234	Faroe Islands	Féroé (Îles)
-FR	FRA	250	France	France
-GA	GAB	266	Gabon	Gabon
-GB	GBR	826	United Kingdom of Great Britain and Northern Ireland	Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
-GD	GRD	308	Grenada	Grenade
-GE	GEO	268	Georgia	Géorgie
-GF	GUF	254	French Guiana	Guyane française
-GG	GGY	831	Guernsey	Guernesey
-GH	GHA	288	Ghana	Ghana
-GI	GIB	292	Gibraltar	Gibraltar
-GL	GRL	304	Greenland	Groenland
-GM	GMB	270	Gambia	Gambie
-GN	GIN	324	Guinea	Guinée
-GP	GLP	312	Guadeloupe	Guadeloupe
-GQ	GNQ	226	Equatorial Guinea	Guinée équatoriale
-GR	GRC	300	Greece	Grèce
-GS	SGS	239	South Georgia and the South Sandwich Islands	Géorgie du Sud-et-les Îles Sandwich du Sud
-GT	GTM	320	Guatemala	Guatemala
-GU	GUM	316	Guam	Guam
-GW	GNB	624	Guinea-Bissau	Guinée-Bissau
-GY	GUY	328	Guyana	Guyana
-HK	HKG	344	Hong Kong	Hong Kong
-HM	HMD	334	Heard Island and McDonald Islands	Heard-et-Îles MacDonald (Île)
-HN	HND	340	Honduras	Honduras
-HR	HRV	191	Croatia	Croatie
-HT	HTI	332	Haiti	Haïti
-HU	HUN	348	Hungary	Hongrie
-ID	IDN	360	Indonesia	Indonésie
-IE	IRL	372	Ireland	Irlande
-IL	ISR	376	Israel	Israël
-IM	IMN	833	Isle of Man	Île de Man
-IN	IND	356	India	Inde
-IO	IOT	86	British Indian Ocean Territory	Indien (Territoire britannique de l'océan)
-IQ	IRQ	368	Iraq	Iraq
-IR	IRN	364	Iran (Islamic Republic of)	Iran (République Islamique d')
-IS	ISL	352	Iceland	Islande
-IT	ITA	380	Italy	Italie
-JE	JEY	832	Jersey	Jersey
-JM	JAM	388	Jamaica	Jamaïque
-JO	JOR	400	Jordan	Jordanie
-JP	JPN	392	Japan	Japon
-KE	KEN	404	Kenya	Kenya
-KG	KGZ	417	Kyrgyzstan	Kirghizistan
-KH	KHM	116	Cambodia	Cambodge
-KI	KIR	296	Kiribati	Kiribati
-KM	COM	174	Comoros	Comores
-KN	KNA	659	Saint Kitts and Nevis	Saint-Kitts-et-Nevis
-KP	PRK	408	Korea (Democratic People's Republic of)	Corée (République populaire démocratique de)
-KR	KOR	410	Korea (Republic of)	Corée (République de)
-KW	KWT	414	Kuwait	Koweït
-KY	CYM	136	Cayman Islands	Caïmans (Îles)
-KZ	KAZ	398	Kazakhstan	Kazakhstan
-LA	LAO	418	Lao People's Democratic Republic	Lao (République démocratique populaire)
-LB	LBN	422	Lebanon	Liban
-LC	LCA	662	Saint Lucia	Sainte-Lucie
-LI	LIE	438	Liechtenstein	Liechtenstein
-LK	LKA	144	Sri Lanka	Sri Lanka
-LR	LBR	430	Liberia	Libéria
-LS	LSO	426	Lesotho	Lesotho
-LT	LTU	440	Lithuania	Lituanie
-LU	LUX	442	Luxembourg	Luxembourg
-LV	LVA	428	Latvia	Lettonie
-LY	LBY	434	Libya	Libye
-MA	MAR	504	Morocco	Maroc
-MC	MCO	492	Monaco	Monaco
-MD	MDA	498	Moldova (Republic of)	Moldova (République de)
-ME	MNE	499	Montenegro	Monténégro
-MF	MAF	663	Saint Martin (French part)	Saint-Martin (partie française)
-MG	MDG	450	Madagascar	Madagascar
-MH	MHL	584	Marshall Islands	Marshall (Îles)
-MK	MKD	807	North Macedonia	Macédoine du Nord
-ML	MLI	466	Mali	Mali
-MM	MMR	104	Myanmar	Myanmar
-MN	MNG	496	Mongolia	Mongolie
-MO	MAC	446	Macao	Macao
-MP	MNP	580	Northern Mariana Islands	Mariannes du Nord (Îles)
-MQ	MTQ	474	Martinique	Martinique
-MR	MRT	478	Mauritania	Mauritanie
-MS	MSR	500	Montserrat	Montserrat
-MT	MLT	470	Malta	Malte
-MU	MUS	480	Mauritius	Maurice
-MV	MDV	462	Maldives	Maldives
-MW	MWI	454	Malawi	Malawi
-MX	MEX	484	Mexico	Mexique
-MY	MYS	458	Malaysia	Malaisie
-MZ	MOZ	508	Mozambique	Mozambique
-NA	NAM	516	Namibia	Namibie
-NC	NCL	540	New Caledonia	Nouvelle-Calédonie
-NE	NER	562	Niger	Niger
-NF	NFK	574	Norfolk Island	Norfolk (l'Île)
-NG	NGA	566	Nigeria	Nigéria
-NI	NIC	558	Nicaragua	Nicaragua
-NL	NLD	528	Netherlands	Pays-Bas
-NO	NOR	578	Norway	Norvège
-NP	NPL	524	Nepal	Népal
-NR	NRU	520	Nauru	Nauru
-NU	NIU	570	Niue	Niue
-NZ	NZL	554	New Zealand	Nouvelle-Zélande
-OM	OMN	512	Oman	Oman
-PA	PAN	591	Panama	Panama
-PE	PER	604	Peru	Pérou
-PF	PYF	258	French Polynesia	Polynésie française
-PG	PNG	598	Papua New Guinea	Papouasie-Nouvelle-Guinée
-PH	PHL	608	Philippines	Philippines
-PK	PAK	586	Pakistan	Pakistan
-PL	POL	616	Poland	Pologne
-PM	SPM	666	Saint Pierre and Miquelon	Saint-Pierre-et-Miquelon
-PN	PCN	612	Pitcairn	Pitcairn
-PR	PRI	630	Puerto Rico	Porto Rico
-PS	PSE	275	Palestine (State of)	Palestine (État de)
-PT	PRT	620	Portugal	Portugal
-PW	PLW	585	Palau	Palaos
-PY	PRY	600	Paraguay	Paraguay
-QA	QAT	634	Qatar	Qatar
-RE	REU	638	Réunion	Réunion
-RO	ROU	642	Romania	Roumanie
-RS	SRB	688	Serbia	Serbie
-RU	RUS	643	Russian Federation	Russie (Fédération de)
-RW	RWA	646	Rwanda	Rwanda
-SA	SAU	682	Saudi Arabia	Arabie saoudite
-SB	SLB	90	Solomon Islands	Salomon (Îles)
-SC	SYC	690	Seychelles	Seychelles
-SD	SDN	729	Sudan	Soudan
-SE	SWE	752	Sweden	Suède
-SG	SGP	702	Singapore	Singapour
-SH	SHN	654	Saint Helena (Ascension and Tristan da Cunha)	Sainte-Hélène (Ascension et Tristan da Cunha)
-SI	SVN	705	Slovenia	Slovénie
-SJ	SJM	744	Svalbard and Jan Mayen	Svalbard et l'Île Jan Mayen
-SK	SVK	703	Slovakia	Slovaquie
-SL	SLE	694	Sierra Leone	Sierra Leone
-SM	SMR	674	San Marino	Saint-Marin
-SN	SEN	686	Senegal	Sénégal
-SO	SOM	706	Somalia	Somalie
-SR	SUR	740	Suriname	Suriname
-SS	SSD	728	South Sudan	Soudan du Sud
-ST	STP	678	Sao Tome and Principe	Sao Tomé-et-Principe
-SV	SLV	222	El Salvador	El Salvador
-SX	SXM	534	Sint Maarten (Dutch part)	Saint-Martin (partie néerlandaise)
-SY	SYR	760	Syrian Arab Republic	République arabe syrienne
-SZ	SWZ	748	Eswatini	Eswatini
-TC	TCA	796	Turks and Caicos Islands	Turks-et-Caïcos (Îles)
-TD	TCD	148	Chad	Tchad
-TF	ATF	260	French Southern Territories	Terres australes françaises
-TG	TGO	768	Togo	Togo
-TH	THA	764	Thailand	Thaïlande
-TJ	TJK	762	Tajikistan	Tadjikistan
-TK	TKL	772	Tokelau	Tokelau
-TL	TLS	626	Timor-Leste	Timor-Leste
-TM	TKM	795	Turkmenistan	Turkménistan
-TN	TUN	788	Tunisia	Tunisie
-TO	TON	776	Tonga	Tonga
-TR	TUR	792	Turkey	Turquie
-TT	TTO	780	Trinidad and Tobago	Trinité-et-Tobago
-TV	TUV	798	Tuvalu	Tuvalu
-TW	TWN	158	Taiwan (Province of China)	Taïwan (Province de Chine)
-TZ	TZA	834	Tanzania (United Republic of)	Tanzanie (République-Unie de)
-UA	UKR	804	Ukraine	Ukraine
-UG	UGA	800	Uganda	Ouganda
-UM	UMI	581	United States Minor Outlying Islands	Îles mineures éloignées des États-Unis
-US	USA	840	United States of America	États-Unis d'Amérique
-UY	URY	858	Uruguay	Uruguay
-UZ	UZB	860	Uzbekistan	Ouzbékistan
-VA	VAT	336	Holy See	Saint-Siège
-VC	VCT	670	Saint Vincent and the Grenadines	Saint-Vincent-et-les Grenadines
-VE	VEN	862	Venezuela (Bolivarian Republic of)	Venezuela (République bolivarienne du)
-VG	VGB	92	Virgin Islands (British)	Vierges britanniques (Îles)
-VI	VIR	850	Virgin Islands (U.S.)	Vierges des États-Unis (Îles)
-VN	VNM	704	Viet Nam	Viet Nam
-VU	VUT	548	Vanuatu	Vanuatu
-WF	WLF	876	Wallis and Futuna	Wallis-et-Futuna
-WS	WSM	882	Samoa	Samoa
-YE	YEM	887	Yemen	Yémen
-YT	MYT	175	Mayotte	Mayotte
-ZA	ZAF	710	South Africa	Afrique du Sud
-ZM	ZMB	894	Zambia	Zambie
-ZW	ZWE	716	Zimbabwe	Zimbabwe
+alpha-2	alpha-3	numeric	short_name_en	short_name_fr	short_name_es	short_name_de	short_name_it	short_name_jp	short_name_pt	short_name_zh
+AD	AND	20	Andorra	Andorre	Andorra	Andorra	Andorra	アンドラ	Andorra	安道尔
+AE	ARE	784	United Arab Emirates	Émirats arabes unis	Emiratos Árabes Unidos	Vereinigte Arabische Emirate	Emirati Arabi Uniti	アラブ首長国連邦	Emirados Árabes Unidos	阿联酋
+AF	AFG	4	Afghanistan	Afghanistan	Afganistán	Afghanistan	Afghanistan	アフガニスタン	Afeganistão	阿富汗
+AG	ATG	28	Antigua and Barbuda	Antigua-et-Barbuda	Antigua y Barbuda	Antigua und Barbuda	Antigua e Barbuda	アンティグア・バーブーダ	Antígua e Barbuda	安提瓜和巴布达
+AI	AIA	660	Anguilla	Anguilla	Anguila	Anguilla	Anguilla	アンギラ	Anguilla	安圭拉
+AL	ALB	8	Albania	Albanie	Albania	Albanien	Albania	アルバニア	Albânia	阿尔巴尼亚
+AM	ARM	51	Armenia	Arménie	Armenia	Armenien	Armenia	アルメニア	Armênia	亚美尼亚
+AO	AGO	24	Angola	Angola	Angola	Angola	Angola	アンゴラ	Angola	安哥拉
+AQ	ATA	10	Antarctica	Antarctique	Antártida	Antarktis	Antartide	南極	Antártida	南极洲
+AR	ARG	32	Argentina	Argentine	Argentina	Argentinien	Argentina	アルゼンチン	Argentina	阿根廷
+AS	ASM	16	American Samoa	Samoa américaines	Samoa Americana	Amerikanisch-Samoa	Samoa Americane	アメリカ領サモア	Samoa Americana	美属萨摩亚
+AT	AUT	40	Austria	Autriche	Austria	Österreich	Austria	オーストリア	Áustria	奥地利
+AU	AUS	36	Australia	Australie	Australia	Australien	Australia	オーストラリア	Austrália	澳大利亚
+AW	ABW	533	Aruba	Aruba	Aruba	Aruba	Aruba	アルバ	Aruba	阿鲁巴
+AX	ALA	248	Åland Islands	Åland (Îles)	Islas Åland	Åland	Isole Åland	オーランド諸島	Ilhas Åland	奥兰
+AZ	AZE	31	Azerbaijan	Azerbaïdjan	Azerbaiyán	Aserbaidschan	Azerbaigian	アゼルバイジャン	Azerbaijão	阿塞拜疆
+BA	BIH	70	Bosnia and Herzegovina	Bosnie-Herzégovine	Bosnia y Herzegovina	Bosnien und Herzegowina	Bosnia ed Erzegovina	ボスニア・ヘルツェゴビナ	Bósnia e Herzegovina	波黑
+BB	BRB	52	Barbados	Barbade	Barbados	Barbados	Barbados	バルバドス	Barbados	巴巴多斯
+BD	BGD	50	Bangladesh	Bangladesh	Bangladesh	Bangladesch	Bangladesh	バングラデシュ	Bangladesh	孟加拉国
+BE	BEL	56	Belgium	Belgique	Bélgica	Belgien	Belgio	ベルギー	Bélgica	比利时
+BF	BFA	854	Burkina Faso	Burkina Faso	Burkina Faso	Burkina Faso	Burkina Faso	ブルキナファソ	Burquina Faso	布基纳法索
+BG	BGR	100	Bulgaria	Bulgarie	Bulgaria	Bulgarien	Bulgaria	ブルガリア	Bulgária	保加利亚
+BH	BHR	48	Bahrain	Bahreïn	Bahrein	Bahrain	Bahrain	バーレーン	Bahrein	巴林
+BI	BDI	108	Burundi	Burundi	Burundi	Burundi	Burundi	ブルンジ	Burundi	布隆迪
+BJ	BEN	204	Benin	Bénin	Benin	Benin	Benin	ベナン	Benin	贝宁
+BL	BLM	652	Saint Barthélemy	Saint-Barthélemy	Saint Barthélemy	Saint-Barthélemy	Saint-Barthélemy	サン・バルテルミー	São Bartolomeu	圣巴泰勒米
+BM	BMU	60	Bermuda	Bermudes	Bermudas	Bermuda	Bermuda	バミューダ	Bermudas	百慕大
+BN	BRN	96	Brunei Darussalam	Brunéi Darussalam	Brunei Darussalam	Brunei Darussalam	Brunei	ブルネイ・ダルサラーム	Brunei	文莱
+BO	BOL	68	Bolivia (Plurinational State of)	Bolivie (État plurinational de)	Bolivia	Bolivien	Bolivia	ボリビア多民族国	Bolívia	玻利维亚
+BQ	BES	535	Bonaire (Sint Eustatius and Saba)	Bonaire (Saint-Eustache et Saba)	Bonaire, San Eustaquio y Saba	Bonaire	Isole BES	ボネール、シント・ユースタティウスおよびサバ	Países Baixos Caribenhos	荷兰加勒比区
+BR	BRA	76	Brazil	Brésil	Brasil	Brasilien	Brasile	ブラジル	Brasil	巴西
+BS	BHS	44	Bahamas	Bahamas	Bahamas	Bahamas	Bahamas	バハマ	Bahamas	巴哈马
+BT	BTN	64	Bhutan	Bhoutan	Bután	Bhutan	Bhutan	ブータン	Butão	不丹
+BV	BVT	74	Bouvet Island	Bouvet (Île)	Isla Bouvet	Bouvetinsel	Isola Bouvet	ブーベ島	Ilhas Bouvet	布韦岛
+BW	BWA	72	Botswana	Botswana	Botswana	Botswana	Botswana	ボツワナ	Botsuana	博茨瓦纳
+BY	BLR	112	Belarus	Bélarus	Bielorrusia	Belarus	Bielorussia	ベラルーシ	Bielorrússia	白俄罗斯
+BZ	BLZ	84	Belize	Belize	Belice	Belize	Belize	ベリーズ	Belize	伯利兹
+CA	CAN	124	Canada	Canada	Canadá	Kanada	Canada	カナダ	Canadá	加拿大
+CC	CCK	166	Cocos (Keeling) Islands	Cocos (Îles)/ Keeling (Îles)	Islas Cocos (Keeling)	Kokosinseln	Isole Cocos e Keeling	ココス（キーリング）諸島	Ilhas Cocos (Keeling)	科科斯（基林）群岛
+CD	COD	180	Congo (Democratic Republic of the)	Congo (République démocratique du)	Congo (República Democrática del)	Kongo	Repubblica Democratica del Congo	コンゴ民主共和国	Congo - Kinshasa	刚果（金）
+CF	CAF	140	Central African Republic	République centrafricaine	República Centroafricana	Zentralafrikanische Republik	Repubblica Centrafricana	中央アフリカ共和国	República Centro-Africana	中非
+CG	COG	178	Congo	Congo	Congo	Republik Kongo	Repubblica del Congo	コンゴ共和国	Congo - Brazzaville	刚果（布）
+CH	CHE	756	Switzerland	Suisse	Suiza	Schweiz	Svizzera	スイス	Suíça	瑞士
+CI	CIV	384	Côte d'Ivoire	Côte d'Ivoire	Costa de Marfil	Elfenbeinküste	Costa d'Avorio	コートジボワール	Costa do Marfim	科特迪瓦
+CK	COK	184	Cook Islands	Cook (Îles)	Islas Cook	Cookinseln	Isole Cook	クック諸島	Ilhas Cook	库克群岛
+CL	CHL	152	Chile	Chili	Chile	Chile	Cile	チリ	Chile	智利
+CM	CMR	120	Cameroon	Cameroun	Camerún	Kamerun	Camerun	カメルーン	República dos Camarões	喀麦隆
+CN	CHN	156	China	Chine	China	China	Cina	中華人民共和国	China	中国
+CO	COL	170	Colombia	Colombie	Colombia	Kolumbien	Colombia	コロンビア	Colômbia	哥伦比亚
+CR	CRI	188	Costa Rica	Costa Rica	Costa Rica	Costa Rica	Costa Rica	コスタリカ	Costa Rica	哥斯达黎加
+CU	CUB	192	Cuba	Cuba	Cuba	Kuba	Cuba	キューバ	Cuba	古巴
+CV	CPV	132	Cabo Verde	Cabo Verde	Cabo Verde	Kap Verde	Capo Verde	カーボベルデ	Cabo Verde	佛得角
+CW	CUW	531	Curaçao	Curaçao	Curaçao	Curaçao	Curaçao	キュラソー	Curaçao	库拉索
+CX	CXR	162	Christmas Island	Christmas (Île)	Isla de Navidad	Weihnachtsinsel	Isola del Natale	クリスマス島	Ilha Christmas	圣诞岛
+CY	CYP	196	Cyprus	Chypre	Chipre	Zypern	Cipro	キプロス	Chipre	塞浦路斯
+CZ	CZE	203	Czechia	Tchéquie	República Checa	Tschechische Republik	Repubblica Ceca	チェコ	República Tcheca	捷克
+DE	DEU	276	Germany	Allemagne	Alemania	Deutschland	Germania	ドイツ	Alemanha	德国
+DJ	DJI	262	Djibouti	Djibouti	Yibuti	Dschibuti	Gibuti	ジブチ	Djibuti	吉布提
+DK	DNK	208	Denmark	Danemark	Dinamarca	Dänemark	Danimarca	デンマーク	Dinamarca	丹麦
+DM	DMA	212	Dominica	Dominique	Dominica	Dominica	Dominica	ドミニカ国	Dominica	多米尼克
+DO	DOM	214	Dominican Republic	Dominicaine (République)	República Dominicana	Dominikanische Republik	Repubblica Dominicana	ドミニカ共和国	República Dominicana	多米尼加
+DZ	DZA	12	Algeria	Algérie	Argelia	Algerien	Algeria	アルジェリア	Argélia	阿尔及利亚
+EC	ECU	218	Ecuador	Équateur	Ecuador	Ecuador	Ecuador	エクアドル	Equador	厄瓜多尔
+EE	EST	233	Estonia	Estonie	Estonia	Estland	Estonia	エストニア	Estônia	爱沙尼亚
+EG	EGY	818	Egypt	Égypte	Egipto	Ägypten	Egitto	エジプト	Egito	埃及
+EH	ESH	732	Western Sahara	Sahara occidental	Sahara Occidental	Westsahara	Sahara Occidentale	西サハラ	Saara Ocidental	阿拉伯撒哈拉民主共和国
+ER	ERI	232	Eritrea	Érythrée	Eritrea	Eritrea	Eritrea	エリトリア	Eritreia	厄立特里亚
+ES	ESP	724	Spain	Espagne	España	Spanien	Spagna	スペイン	Espanha	西班牙
+ET	ETH	231	Ethiopia	Éthiopie	Etiopía	Äthiopien	Etiopia	エチオピア	Etiópia	埃塞俄比亚
+FI	FIN	246	Finland	Finlande	Finlandia	Finnland	Finlandia	フィンランド	Finlândia	芬兰
+FJ	FJI	242	Fiji	Fidji	Fiji	Fidschi	Figi	フィジー	Fiji	斐济
+FK	FLK	238	Falkland Islands [Malvinas]	Falkland (Îles)/Malouines (Îles)	Islas Malvinas	Falklandinseln	Isole Falkland	フォークランド（マルビナス）諸島	Ilhas Malvinas	福克兰群岛
+FM	FSM	583	Micronesia (Federated States of)	Micronésie (États fédérés de)	Micronesia	Mikronesien	Stati Federati di Micronesia	ミクロネシア連邦	Micronésia	密克罗尼西亚联邦
+FO	FRO	234	Faroe Islands	Féroé (Îles)	Islas Feroe	Färöer	Isole Fær Øer	フェロー諸島	Ilhas Faroe	法罗群岛
+FR	FRA	250	France	France	Francia	Frankreich	Francia	フランス	França	法国
+GA	GAB	266	Gabon	Gabon	Gabón	Gabun	Gabon	ガボン	Gabão	加蓬
+GB	GBR	826	United Kingdom of Great Britain and Northern Ireland	Royaume-Uni de Grande-Bretagne et d'Irlande du Nord	Reino Unido	Vereinigtes Königreich	Regno Unito	イギリス	Reino Unido	英国
+GD	GRD	308	Grenada	Grenade	Granada	Grenada	Grenada	グレナダ	Granada	格林纳达
+GE	GEO	268	Georgia	Géorgie	Georgia	Georgien	Georgia	ジョージア	Geórgia	格鲁吉亚
+GF	GUF	254	French Guiana	Guyane française	Guayana Francesa	Französisch-Guayana	Guyana Francese	フランス領ギアナ	Guiana Francesa	法属圭亚那
+GG	GGY	831	Guernsey	Guernesey	Guernsey	Guernsey	Guernsey	ガーンジー	Guernsey	根西
+GH	GHA	288	Ghana	Ghana	Ghana	Ghana	Ghana	ガーナ	Gana	加纳
+GI	GIB	292	Gibraltar	Gibraltar	Gibraltar	Gibraltar	Gibilterra	ジブラルタル	Gibraltar	直布罗陀
+GL	GRL	304	Greenland	Groenland	Groenlandia	Grönland	Groenlandia	グリーンランド	Groenlândia	格陵兰
+GM	GMB	270	Gambia	Gambie	Gambia	Gambia	Gambia	ガンビア	Gâmbia	冈比亚
+GN	GIN	324	Guinea	Guinée	Guinea	Guinea	Guinea	ギニア	Guiné	几内亚
+GP	GLP	312	Guadeloupe	Guadeloupe	Guadalupe	Guadeloupe	Guadalupa	グアドループ	Guadalupe	瓜德罗普
+GQ	GNQ	226	Equatorial Guinea	Guinée équatoriale	Guinea Ecuatorial	Äquatorialguinea	Guinea Equatoriale	赤道ギニア	Guiné Equatorial	赤道几内亚
+GR	GRC	300	Greece	Grèce	Grecia	Griechenland	Grecia	ギリシャ	Grécia	希腊
+GS	SGS	239	South Georgia and the South Sandwich Islands	Géorgie du Sud-et-les Îles Sandwich du Sud	Georgia del Sur y las Islas Sandwich del Sur	Südgeorgien und die Südlichen Sandwichinseln	Georgia del Sud e isole Sandwich meridionali	サウスジョージア・サウスサンドウィッチ諸島	Geórgia do Sul e Ilhas Sandwich do Sul	南乔治亚和南桑威奇群岛
+GT	GTM	320	Guatemala	Guatemala	Guatemala	Guatemala	Guatemala	グアテマラ	Guatemala	危地马拉
+GU	GUM	316	Guam	Guam	Guam	Guam	Guam	グアム	Guam	关岛
+GW	GNB	624	Guinea-Bissau	Guinée-Bissau	Guinea Bissau	Guinea-Bissau	Guinea-Bissau	ギニアビサウ	Guiné Bissau	几内亚比绍
+GY	GUY	328	Guyana	Guyana	Guyana	Guyana	Guyana	ガイアナ	Guiana	圭亚那
+HK	HKG	344	Hong Kong	Hong Kong	Hong Kong	Hongkong	Hong Kong	香港	Hong Kong, RAE da China	香港
+HM	HMD	334	Heard Island and McDonald Islands	Heard-et-Îles MacDonald (Île)	Heard e Islas McDonald	Heard und McDonaldinseln	Isole Heard e McDonald	ハード島とマクドナルド諸島	Ilha Heard e Ilha McDonald	赫德岛和麦克唐纳群岛
+HN	HND	340	Honduras	Honduras	Honduras	Honduras	Honduras	ホンジュラス	Honduras	洪都拉斯
+HR	HRV	191	Croatia	Croatie	Croacia	Kroatien	Croazia	クロアチア	Croácia	克罗地亚
+HT	HTI	332	Haiti	Haïti	Haití	Haiti	Haiti	ハイチ	Haiti	海地
+HU	HUN	348	Hungary	Hongrie	Hungría	Ungarn	Ungheria	ハンガリー	Hungria	匈牙利
+ID	IDN	360	Indonesia	Indonésie	Indonesia	Indonesien	Indonesia	インドネシア	Indonésia	印尼
+IE	IRL	372	Ireland	Irlande	Irlanda	Irland	Irlanda	アイルランド	Irlanda	爱尔兰
+IL	ISR	376	Israel	Israël	Israel	Israel	Israele	イスラエル	Israel	以色列
+IM	IMN	833	Isle of Man	Île de Man	Isla de Man	Insel Man	Isola di Man	マン島	Ilha de Man	马恩岛
+IN	IND	356	India	Inde	India	Indien	India	インド	Índia	印度
+IO	IOT	86	British Indian Ocean Territory	Indien (Territoire britannique de l'océan)	Territorio Británico del Océano Índico	Britisches Territorium im Indischen Ozean	Territori Britannici dell'Oceano Indiano	イギリス領インド洋地域	Território Britânico do Oceano Índico	英属印度洋领地
+IQ	IRQ	368	Iraq	Iraq	Iraq	Irak	Iraq	イラク	Iraque	伊拉克
+IR	IRN	364	Iran (Islamic Republic of)	Iran (République Islamique d')	Irán (República Islámica de)	Iran	Iran	イラン・イスラム共和国	Irã	伊朗
+IS	ISL	352	Iceland	Islande	Islandia	Island	Islanda	アイスランド	Islândia	冰岛
+IT	ITA	380	Italy	Italie	Italia	Italien	Italia	イタリア	Itália	意大利
+JE	JEY	832	Jersey	Jersey	Jersey	Jersey	Jersey	ジャージー	Jersey	泽西
+JM	JAM	388	Jamaica	Jamaïque	Jamaica	Jamaika	Giamaica	ジャマイカ	Jamaica	牙买加
+JO	JOR	400	Jordan	Jordanie	Jordania	Jordanien	Giordania	ヨルダン	Jordânia	约旦
+JP	JPN	392	Japan	Japon	Japón	Japan	Giappone	日本	Japão	日本
+KE	KEN	404	Kenya	Kenya	Kenia	Kenia	Kenya	ケニア	Quênia	肯尼亚
+KG	KGZ	417	Kyrgyzstan	Kirghizistan	Kirguistán	Kirgisistan	Kirghizistan	キルギス	Quirguistão	吉尔吉斯斯坦
+KH	KHM	116	Cambodia	Cambodge	Camboya	Kambodscha	Cambogia	カンボジア	Camboja	柬埔寨
+KI	KIR	296	Kiribati	Kiribati	Kiribati	Kiribati	Kiribati	キリバス	Quiribati	基里巴斯
+KM	COM	174	Comoros	Comores	Comoras	Komoren	Comore	コモロ	Comores	科摩罗
+KN	KNA	659	Saint Kitts and Nevis	Saint-Kitts-et-Nevis	Saint Kitts y Nevis	St. Kitts und Nevis	Saint Kitts e Nevis	セントクリストファー・ネイビス	São Cristóvão e Nevis	圣基茨和尼维斯
+KP	PRK	408	Korea (Democratic People's Republic of)	Corée (République populaire démocratique de)	República Popular Democrática de Corea	Nordkorea	Corea del Nord	朝鮮民主主義人民共和国	Coreia do Norte	朝鲜
+KR	KOR	410	Korea (Republic of)	Corée (République de)	República de Corea	Südkorea	Corea del Sud	大韓民国	Coreia do Sul	韩国
+KW	KWT	414	Kuwait	Koweït	Kuwait	Kuwait	Kuwait	クウェート	Kuwait	科威特
+KY	CYM	136	Cayman Islands	Caïmans (Îles)	Islas Caimán	Kaimaninseln	Isole Cayman	ケイマン諸島	Ilhas Caiman	开曼群岛
+KZ	KAZ	398	Kazakhstan	Kazakhstan	Kazajistán	Kasachstan	Kazakistan	カザフスタン	Cazaquistão	哈萨克斯坦
+LA	LAO	418	Lao People's Democratic Republic	Lao (République démocratique populaire)	República Democrática Popular de Lao	Laos	Laos	ラオス人民民主共和国	Laos	老挝
+LB	LBN	422	Lebanon	Liban	Líbano	Libanon	Libano	レバノン	Líbano	黎巴嫩
+LC	LCA	662	Saint Lucia	Sainte-Lucie	Santa Lucía	St. Lucia	Santa Lucia	セントルシア	Santa Lúcia	圣卢西亚
+LI	LIE	438	Liechtenstein	Liechtenstein	Liechtenstein	Liechtenstein	Liechtenstein	リヒテンシュタイン	Liechtenstein	列支敦士登
+LK	LKA	144	Sri Lanka	Sri Lanka	Sri Lanka	Sri Lanka	Sri Lanka	スリランカ	Sri Lanka	斯里兰卡
+LR	LBR	430	Liberia	Libéria	Liberia	Liberia	Liberia	リベリア	Libéria	利比里亚
+LS	LSO	426	Lesotho	Lesotho	Lesoto	Lesotho	Lesotho	レソト	Lesoto	莱索托
+LT	LTU	440	Lithuania	Lituanie	Lituania	Litauen	Lituania	リトアニア	Lituânia	立陶宛
+LU	LUX	442	Luxembourg	Luxembourg	Luxemburgo	Luxemburg	Lussemburgo	ルクセンブルク	Luxemburgo	卢森堡
+LV	LVA	428	Latvia	Lettonie	Letonia	Lettland	Lettonia	ラトビア	Letônia	拉脱维亚
+LY	LBY	434	Libya	Libye	Libia	Libyen	Libia	リビア	Líbia	利比亚
+MA	MAR	504	Morocco	Maroc	Marruecos	Marokko	Marocco	モロッコ	Marrocos	摩洛哥
+MC	MCO	492	Monaco	Monaco	Mónaco	Monaco	Monaco	モナコ	Mônaco	摩纳哥
+MD	MDA	498	Moldova (Republic of)	Moldova (République de)	Moldavia	Moldawien	Moldavia	モルドバ共和国	Moldávia	摩尔多瓦
+ME	MNE	499	Montenegro	Monténégro	Montenegro	Montenegro	Montenegro	モンテネグロ	Montenegro	黑山
+MF	MAF	663	Saint Martin (French part)	Saint-Martin (partie française)	Saint Martin (francesa)	Saint-Martin	Saint-Martin	サン・マルタン（フランス領）	São Martinho	法属圣马丁
+MG	MDG	450	Madagascar	Madagascar	Madagascar	Madagaskar	Madagascar	マダガスカル	Madagascar	马达加斯加
+MH	MHL	584	Marshall Islands	Marshall (Îles)	Islas Marshall	Marshallinseln	Isole Marshall	マーシャル諸島	Ilhas Marshall	马绍尔群岛
+MK	MKD	807	North Macedonia	Macédoine du Nord	Macedonia del Norte	Nordmazedonien	Macedonia del Nord	北マケドニア	Macedônia do Norte	北马其顿
+ML	MLI	466	Mali	Mali	Malí	Mali	Mali	マリ	Mali	马里
+MM	MMR	104	Myanmar	Myanmar	Myanmar	Myanmar	Birmania  Myanmar	ミャンマー	Mianmar (Birmânia)	缅甸
+MN	MNG	496	Mongolia	Mongolie	Mongolia	Mongolei	Mongolia	モンゴル	Mongólia	蒙古
+MO	MAC	446	Macao	Macao	Macao	Macao	Macao	マカオ	Macau, RAE da China	澳门
+MP	MNP	580	Northern Mariana Islands	Mariannes du Nord (Îles)	Islas Marianas del Norte	Nördliche Marianen	Isole Marianne Settentrionali	北マリアナ諸島	Ilhas Marianas do Norte	北马里亚纳群岛
+MQ	MTQ	474	Martinique	Martinique	Martinica	Martinique	Martinica	マルティニーク	Martinica	马提尼克
+MR	MRT	478	Mauritania	Mauritanie	Mauritania	Mauretanien	Mauritania	モーリタニア	Mauritânia	毛里塔尼亚
+MS	MSR	500	Montserrat	Montserrat	Montserrat	Montserrat	Montserrat	モントセラト	Montserrat	蒙特塞拉特
+MT	MLT	470	Malta	Malte	Malta	Malta	Malta	マルタ	Malta	马耳他
+MU	MUS	480	Mauritius	Maurice	Mauricio	Mauritius	Mauritius	モーリシャス	Maurício	毛里求斯
+MV	MDV	462	Maldives	Maldives	Maldivas	Malediven	Maldive	モルディブ	Maldivas	马尔代夫
+MW	MWI	454	Malawi	Malawi	Malaui	Malawi	Malawi	マラウイ	Malawi	马拉维
+MX	MEX	484	Mexico	Mexique	México	Mexiko	Messico	メキシコ	México	墨西哥
+MY	MYS	458	Malaysia	Malaisie	Malasia	Malaysia	Malesia	マレーシア	Malásia	马来西亚
+MZ	MOZ	508	Mozambique	Mozambique	Mozambique	Mosambik	Mozambico	モザンビーク	Moçambique	莫桑比克
+NA	NAM	516	Namibia	Namibie	Namibia	Namibia	Namibia	ナミビア	Namíbia	纳米比亚
+NC	NCL	540	New Caledonia	Nouvelle-Calédonie	Nueva Caledonia	Neukaledonien	Nuova Caledonia	ニューカレドニア	Nova Caledônia	新喀里多尼亚
+NE	NER	562	Niger	Niger	Níger	Niger	Niger	ニジェール	Níger	尼日尔
+NF	NFK	574	Norfolk Island	Norfolk (l'Île)	Isla Norfolk	Norfolkinsel	Isola Norfolk	ノーフォーク島	Ilha Norfolk	诺福克岛
+NG	NGA	566	Nigeria	Nigéria	Nigeria	Nigeria	Nigeria	ナイジェリア	Nigéria	尼日利亚
+NI	NIC	558	Nicaragua	Nicaragua	Nicaragua	Nicaragua	Nicaragua	ニカラグア	Nicarágua	尼加拉瓜
+NL	NLD	528	Netherlands	Pays-Bas	Países Bajos	Niederlande	Paesi Bassi	オランダ	Holanda	荷兰
+NO	NOR	578	Norway	Norvège	Noruega	Norwegen	Norvegia	ノルウェー	Noruega	挪威
+NP	NPL	524	Nepal	Népal	Nepal	Nepal	Nepal	ネパール	Nepal	尼泊尔
+NR	NRU	520	Nauru	Nauru	Nauru	Nauru	Nauru	ナウル	Nauru	瑙鲁
+NU	NIU	570	Niue	Niue	Niue	Niue	Niue	ニウエ	Niue	纽埃
+NZ	NZL	554	New Zealand	Nouvelle-Zélande	Nueva Zelanda	Neuseeland	Nuova Zelanda	ニュージーランド	Nova Zelândia	新西兰
+OM	OMN	512	Oman	Oman	Omán	Oman	Oman	オマーン	Omã	阿曼
+PA	PAN	591	Panama	Panama	Panamá	Panama	Panamá	パナマ	Panamá	巴拿马
+PE	PER	604	Peru	Pérou	Perú	Peru	Perù	ペルー	Peru	秘鲁
+PF	PYF	258	French Polynesia	Polynésie française	Polinesia Francesa	Französisch-Polynesien	Polinesia Francese	フランス領ポリネシア	Polinésia Francesa	法属波利尼西亚
+PG	PNG	598	Papua New Guinea	Papouasie-Nouvelle-Guinée	Papua Nueva Guinea	Papua-Neuguinea	Papua Nuova Guinea	パプアニューギニア	Papua-Nova Guiné	巴布亚新几内亚
+PH	PHL	608	Philippines	Philippines	Filipinas	Philippinen	Filippine	フィリピン	Filipinas	菲律宾
+PK	PAK	586	Pakistan	Pakistan	Pakistán	Pakistan	Pakistan	パキスタン	Paquistão	巴基斯坦
+PL	POL	616	Poland	Pologne	Polonia	Polen	Polonia	ポーランド	Polônia	波兰
+PM	SPM	666	Saint Pierre and Miquelon	Saint-Pierre-et-Miquelon	San Pedro y Miquelón	Saint-Pierre und Miquelon	Saint Pierre e Miquelon	サンピエール島・ミクロン島	Saint Pierre e Miquelon	圣皮埃尔和密克隆
+PN	PCN	612	Pitcairn	Pitcairn	Pitcairn	Pitcairninseln	Isole Pitcairn	ピトケアン	Ilhas Pitcairn	皮特凯恩群岛
+PR	PRI	630	Puerto Rico	Porto Rico	Puerto Rico	Puerto Rico	Porto Rico	プエルトリコ	Porto Rico	波多黎各
+PS	PSE	275	Palestine (State of)	Palestine (État de)	Palestina	Staat Palästina	Stato di Palestina	パレスチナ	Territórios palestinos	巴勒斯坦
+PT	PRT	620	Portugal	Portugal	Portugal	Portugal	Portogallo	ポルトガル	Portugal	葡萄牙
+PW	PLW	585	Palau	Palaos	Palau	Palau	Palau	パラオ	Palau	帕劳
+PY	PRY	600	Paraguay	Paraguay	Paraguay	Paraguay	Paraguay	パラグアイ	Paraguai	巴拉圭
+QA	QAT	634	Qatar	Qatar	Catar	Katar	Qatar	カタール	Catar	卡塔尔
+RE	REU	638	Réunion	Réunion	Reunión	Réunion	Réunion	レユニオン	Reunião	留尼汪
+RO	ROU	642	Romania	Roumanie	Rumanía	Rumänien	Romania	ルーマニア	Romênia	罗马尼亚
+RS	SRB	688	Serbia	Serbie	Serbia	Serbien	Serbia	セルビア	Sérvia	塞尔维亚
+RU	RUS	643	Russian Federation	Russie (Fédération de)	Rusia	Russische Föderation	Russia	ロシア連邦	Rússia	俄罗斯
+RW	RWA	646	Rwanda	Rwanda	Ruanda	Ruanda	Ruanda	ルワンダ	Ruanda	卢旺达
+SA	SAU	682	Saudi Arabia	Arabie saoudite	Arabia Saudita	Saudi-Arabien	Arabia Saudita	サウジアラビア	Arábia Saudita	沙特阿拉伯
+SB	SLB	90	Solomon Islands	Salomon (Îles)	Islas Salomón	Salomonen	Isole Salomone	ソロモン諸島	Ilhas Salomão	所罗门群岛
+SC	SYC	690	Seychelles	Seychelles	Seychelles	Seychellen	Seychelles	セーシェル	Seychelles	塞舌尔
+SD	SDN	729	Sudan	Soudan	Sudán	Sudan	Sudan	スーダン	Sudão	苏丹
+SE	SWE	752	Sweden	Suède	Suecia	Schweden	Svezia	スウェーデン	Suécia	瑞典
+SG	SGP	702	Singapore	Singapour	Singapur	Singapur	Singapore	シンガポール	Singapura	新加坡
+SH	SHN	654	Saint Helena (Ascension and Tristan da Cunha)	Sainte-Hélène (Ascension et Tristan da Cunha)	Santa Helena, Ascensión y Tristán de Acuña	St. Helena	Sant'Elena, Isola di Ascensione e Tristan da Cunha	セントヘレナ・アセンションおよびトリスタンダクーニャ	Santa Helena	圣赫勒拿、阿森松和特里斯坦-达库尼亚
+SI	SVN	705	Slovenia	Slovénie	Eslovenia	Slowenien	Slovenia	スロベニア	Eslovênia	斯洛文尼亚
+SJ	SJM	744	Svalbard and Jan Mayen	Svalbard et l'Île Jan Mayen	Svalbard y Jan Mayen	Svalbard und Jan Mayen	Svalbard e Jan Mayen	スヴァールバル諸島およびヤンマイエン島	Svalbard e Jan Mayen	斯瓦尔巴和扬马延
+SK	SVK	703	Slovakia	Slovaquie	Eslovaquia	Slowakei	Slovacchia	スロバキア	Eslováquia	斯洛伐克
+SL	SLE	694	Sierra Leone	Sierra Leone	Sierra Leona	Sierra Leone	Sierra Leone	シエラレオネ	Serra Leoa	塞拉利昂
+SM	SMR	674	San Marino	Saint-Marin	San Marino	San Marino	San Marino	サンマリノ	San Marino	圣马力诺
+SN	SEN	686	Senegal	Sénégal	Senegal	Senegal	Senegal	セネガル	Senegal	塞内加尔
+SO	SOM	706	Somalia	Somalie	Somalia	Somalia	Somalia	ソマリア	Somália	索马里
+SR	SUR	740	Suriname	Suriname	Suriname	Suriname	Suriname	スリナム	Suriname	苏里南
+SS	SSD	728	South Sudan	Soudan du Sud	Sudán del Sur	Südsudan	Sudan del Sud	南スーダン	Sudão do Sul	南苏丹
+ST	STP	678	Sao Tome and Principe	Sao Tomé-et-Principe	Santo Tomé y Príncipe	São Tomé und Príncipe	São Tomé e Príncipe	サントメ・プリンシペ	São Tomé e Príncipe	圣多美和普林西比
+SV	SLV	222	El Salvador	El Salvador	El Salvador	El Salvador	El Salvador	エルサルバドル	El Salvador	萨尔瓦多
+SX	SXM	534	Sint Maarten (Dutch part)	Saint-Martin (partie néerlandaise)	Sint Maarten (neerlandesa)	Sint Maarten	Sint Maarten	シント・マールテン（オランダ領）	Sint Maarten	荷属圣马丁
+SY	SYR	760	Syrian Arab Republic	République arabe syrienne	República Árabe Siria	Syrien, Arabische Republik	Siria	シリア・アラブ共和国	Síria	叙利亚
+SZ	SWZ	748	Eswatini	Eswatini	Suazilandia	Eswatini	Eswatini	スワジランド	Suazilândia	斯威士兰
+TC	TCA	796	Turks and Caicos Islands	Turks-et-Caïcos (Îles)	Islas Turcas y Caicos	Turks- und Caicosinseln	Isole Turks e Caicos	タークス・カイコス諸島	Ilhas Turks e Caicos	特克斯和凯科斯群岛
+TD	TCD	148	Chad	Tchad	Chad	Tschad	Ciad	チャド	Chade	乍得
+TF	ATF	260	French Southern Territories	Terres australes françaises	Tierras Australes Francesas	Französische Süd- und Antarktisgebiete	Territori Francesi del Sud	フランス領南方・南極地域	Territórios Franceses do Sul	法属南部领地
+TG	TGO	768	Togo	Togo	Togo	Togo	Togo	トーゴ	Togo	多哥
+TH	THA	764	Thailand	Thaïlande	Tailandia	Thailand	Thailandia	タイ	Tailândia	泰国
+TJ	TJK	762	Tajikistan	Tadjikistan	Tayikistán	Tadschikistan	Tagikistan	タジキスタン	Tajiquistão	塔吉克斯坦
+TK	TKL	772	Tokelau	Tokelau	Tokelau	Tokelau	Tokelau	トケラウ	Tokelau	托克劳
+TL	TLS	626	Timor-Leste	Timor-Leste	Timor-Leste	Osttimor	Timor Est	東ティモール	Timor-Leste	东帝汶
+TM	TKM	795	Turkmenistan	Turkménistan	Turkmenistán	Turkmenistan	Turkmenistan	トルクメニスタン	Turcomenistão	土库曼斯坦
+TN	TUN	788	Tunisia	Tunisie	Túnez	Tunesien	Tunisia	チュニジア	Tunísia	突尼斯
+TO	TON	776	Tonga	Tonga	Tonga	Tonga	Tonga	トンガ	Tonga	汤加
+TR	TUR	792	Türkiye	Turquie	Turquía	Türkei	Turchia	トルコ	Turquia	土耳其
+TT	TTO	780	Trinidad and Tobago	Trinité-et-Tobago	Trinidad y Tobago	Trinidad und Tobago	Trinidad e Tobago	トリニダード・トバゴ	Trinidad e Tobago	特立尼达和多巴哥
+TV	TUV	798	Tuvalu	Tuvalu	Tuvalu	Tuvalu	Tuvalu	ツバル	Tuvalu	图瓦卢
+TW	TWN	158	Taiwan (Province of China)	Taïwan (Province de Chine)	Taiwán	Taiwan	Repubblica di Cina	台湾	Taiwan	中国台湾省
+TZ	TZA	834	Tanzania (United Republic of)	Tanzanie (République-Unie de)	Tanzania	Tansania, Vereinigte Republik	Tanzania	タンザニア	Tanzânia	坦桑尼亚
+UA	UKR	804	Ukraine	Ukraine	Ucrania	Ukraine	Ucraina	ウクライナ	Ucrânia	乌克兰
+UG	UGA	800	Uganda	Ouganda	Uganda	Uganda	Uganda	ウガンダ	Uganda	乌干达
+UM	UMI	581	United States Minor Outlying Islands	Îles mineures éloignées des États-Unis	Islas Ultramarinas Menores de los Estados Unidos	United States Minor Outlying Islands	Isole minori esterne degli Stati Uniti	合衆国領有小離島	Ilhas Distantes dos EUA	美国本土外小岛屿
+US	USA	840	United States of America	États-Unis d'Amérique	Estados Unidos	Vereinigte Staaten von Amerika	Stati Uniti d'America	アメリカ合衆国	Estados Unidos	美国
+UY	URY	858	Uruguay	Uruguay	Uruguay	Uruguay	Uruguay	ウルグアイ	Uruguai	乌拉圭
+UZ	UZB	860	Uzbekistan	Ouzbékistan	Uzbekistán	Usbekistan	Uzbekistan	ウズベキスタン	Uzbequistão	乌兹别克斯坦
+VA	VAT	336	Holy See	Saint-Siège	Santa Sede	Vatikanstadt	Città del Vaticano	バチカン市国	Cidade do Vaticano	梵蒂冈
+VC	VCT	670	Saint Vincent and the Grenadines	Saint-Vincent-et-les Grenadines	San Vicente y las Granadinas	St. Vincent und die Grenadinen	Saint Vincent e Grenadine	セントビンセントおよびグレナディーン諸島	São Vicente e Granadinas	圣文森特和格林纳丁斯
+VE	VEN	862	Venezuela (Bolivarian Republic of)	Venezuela (République bolivarienne du)	Venezuela	Venezuela	Venezuela	ベネズエラ・ボリバル共和国	Venezuela	委内瑞拉
+VG	VGB	92	Virgin Islands (British)	Vierges britanniques (Îles)	Islas Vírgenes británicas	Britische Jungferninseln	Isole Vergini Britanniche	イギリス領ヴァージン諸島	Ilhas Virgens Britânicas	英属维尔京群岛
+VI	VIR	850	Virgin Islands (U.S.)	Vierges des États-Unis (Îles)	Islas Vírgenes de los Estados Unidos	Amerikanische Jungferninseln	Isole Vergini Americane	アメリカ領ヴァージン諸島	Ilhas Virgens dos EUA	美属维尔京群岛
+VN	VNM	704	Viet Nam	Viet Nam	Vietnam	Vietnam	Vietnam	ベトナム	Vietnã	越南
+VU	VUT	548	Vanuatu	Vanuatu	Vanuatu	Vanuatu	Vanuatu	バヌアツ	Vanuatu	瓦努阿图
+WF	WLF	876	Wallis and Futuna	Wallis-et-Futuna	Wallis y Futuna	Wallis und Futuna	Wallis e Futuna	ウォリス・フツナ	Wallis e Futuna	瓦利斯和富图纳
+WS	WSM	882	Samoa	Samoa	Samoa	Samoa	Samoa	サモア	Samoa	萨摩亚
+YE	YEM	887	Yemen	Yémen	Yemen	Jemen	Yemen	イエメン	Iêmen	也门
+YT	MYT	175	Mayotte	Mayotte	Mayotte	Mayotte	Mayotte	マヨット	Mayotte	马约特
+ZA	ZAF	710	South Africa	Afrique du Sud	Sudáfrica	Südafrika	Sudafrica	南アフリカ	África do Sul	南非
+ZM	ZMB	894	Zambia	Zambie	Zambia	Sambia	Zambia	ザンビア	Zâmbia	赞比亚
+ZW	ZWE	716	Zimbabwe	Zimbabwe	Zimbabue	Simbabwe	Zimbabwe	ジンバブエ	Zimbábue	津巴布韦

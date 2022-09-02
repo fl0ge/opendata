@@ -17,3 +17,10 @@ The data is available in tab-separated values (TSV) and comma-separated values (
 * ISO 3166-1 numeric
 * the country/territory short name in English
 * the country/territory short name in French
+* the country/territory short name in Spanish 
+* the country/territory short name in German
+* the country/territory short name in Italian
+* the country/territory short name in Japanese
+* the country/territory short name in Portuguese
+* the country/territory short name in Chinese
+
